@@ -1,19 +1,3 @@
-<<p align="center">
-  <img src="https://github.com/BlackSpammerBd/blackspammerbd_webmaster/blob/main/1749235408784.jpg" alt="BLACKSPAMMERBD Logo" width="350"/>
-</p>
-
-<h1 align="center" style="font-size: 54px; margin: 8px 0;">🔥 BLACKSPAMMERBD-WEBMASTER 🔥</h1>
-<p align="c<p align="center">
-  <img src="https://github.com/BlackSpammerBd/blackspammerbd_webmaster/blob/main/1749235408784.jpg" alt="BLACKSPAMMERBD Logo" width="350"/>
-</p>
-
-<h1 align="center" style="font-size: 54px; margin: 8px 0;">🔥 BLACKSPAMMERBD-WEBMASTER 🔥</h1>
-<p align="center" style="font-size: 22px; margin-top: 4px;">
-  <strong>The Pinnacle of Web Pentesting</strong><br/>
-  <em>Engineered by <strong>BLACK SPAMMER BD</strong> for Elite Security Experts</em>
-</p><p align="center">
-  <img src="https://github.com/BlackSpammerBd/blackspammerbd_webmaster/blob/main/1749235408784.jpg" alt="BLACKSPAMMERBD Logo" width="350"/>
-</p>
 
 <h1 align="center" style="font-size: 54px; margin: 8px 0;">🔥 BLACKSPAMMERBD-WEBMASTER 🔥</h1>
 <p align="c<p align="center">
