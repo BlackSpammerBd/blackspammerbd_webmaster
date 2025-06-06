@@ -6,7 +6,7 @@
   🔥 BLACKSPAMMERBD-WEBMASTER 🔥
 </h1>
 <p align="center" style="font-size: 28px; margin-top: 8px; color: #333333;">
-  <strong style="font-size: 30px; color: #0077b6;">The Pinnacle of Web Pentesting Power & Professionalism — 2025 Edition</strong><br/>
+  <strong style="font-size: 30px; color: #0077b6;">The Pinnacle of Web Pentesting Power & Professionalism — 2025</strong><br/>
   <em style="color: #555555;">Engineered by <strong>BLACK SPAMMER BD</strong> for Elite Security Teams</em>
 </p>
 
