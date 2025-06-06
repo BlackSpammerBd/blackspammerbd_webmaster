@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlackSpammerBd/blackspammerbd-webdev/main/bsb-logo.png" alt="BLACKSPAMMERBD Logo" width="350"/>
+  <img src="https://github.com/BlackSpammerBd/blackspammerbd_webmaster/blob/main/1749235408784.jpg" alt="BLACKSPAMMERBD Logo" width="350"/>
 </p>
 
 <h1 align="center" style="font-size: 54px; margin: 8px 0;">🔥 BLACKSPAMMERBD-WEBMASTER 🔥</h1>
